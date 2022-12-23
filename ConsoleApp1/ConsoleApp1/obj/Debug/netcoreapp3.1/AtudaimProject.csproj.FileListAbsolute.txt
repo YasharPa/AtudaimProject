@@ -1,0 +1,14 @@
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.exe
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.deps.json
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.runtimeconfig.json
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.runtimeconfig.dev.json
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.dll
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\AtudaimProject.pdb
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.csproj.AssemblyReference.cache
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.AssemblyInfoInputs.cache
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.AssemblyInfo.cs
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.csproj.CoreCompileInputs.cache
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.dll
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.pdb
+C:\Users\yasha\OneDrive\שולחן העבודה\Works\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\AtudaimProject.genruntimeconfig.cache
